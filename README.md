@@ -16,6 +16,7 @@ The calls are open for anyone to participate. They usually start with updates fr
 
  №  | Date                             | Notes          | Recording            |
 --- | -------------------------------- | -------------- | -------------------- |
+  8 | 13 December 2018 17:00 UTC       | [agenda](https://github.com/ewasm/pm/issues/24) | [video](https://youtu.be/R0wtxUyWo9E) |
   7 | 15th November 2018 17:00 UTC     | [agenda](https://github.com/ewasm/pm/issues/22) | [video](https://youtu.be/vj6o6UCfyIY) |
   6 | 20th September 2018 17:00 UTC    | [agenda](https://github.com/ewasm/pm/issues/21) | [video](https://www.youtube.com/watch?v=apIHpBSdBio) |
   5 | 1st August 2018 17:00 UTC        | [agenda](https://github.com/ewasm/pm/issues/18) | [video](https://www.youtube.com/watch?v=o8qEaxjf6SI) |
